@@ -5,4 +5,3 @@ This is training file for GIT.
 https://github.com/Feliksgithub/First_Tests_Python.git
 
 
-1111
